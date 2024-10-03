@@ -149,3 +149,6 @@ static/
 data/**/*.md5
 
 .DS_Store
+
+# This folder contains my project notes
+mynotes/
